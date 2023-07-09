@@ -302,6 +302,7 @@
   }
 
   .foot {
+    position: relative;
     width: 100%;
   }
 
