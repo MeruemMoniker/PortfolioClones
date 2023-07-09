@@ -301,11 +301,6 @@
     min-height: 300px;
   }
 
-  .foot {
-    position: relative;
-    width: 100%;
-  }
-
   .footer {
     width: 100%;
     background-color: black;
